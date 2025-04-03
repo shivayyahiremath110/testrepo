@@ -1,0 +1,23 @@
+Agile - Dividing bigger requiremts in small multiples target .
+
+Sprint - 2 week .
+
+Scrum team - SM , Dev ,tester , DevOps , PO , BA. 
+
+meetings 
+
+1) sprint planninng (1.5 TO 3 HRS ) >> once in a sprint   >> first day of sprint >> sprint Goal 
+2) DSM (30 MIN ) >> DAILY  >> 
+3) Backlog refigmnent (1hr) >>  twice in sprint 
+4) Sprint Review & Demo >> Once in a sprint (last day of sprint)
+5) Retro (30min)  >> Once in a sprint (last day of sprint). 
+
+   a) What went well b) what didn't went well. c) what can be improved .
+
+
+
+
+This is to test local repo 
+
+
+This is to test the git push command.
