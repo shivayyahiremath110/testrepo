@@ -1,0 +1,15 @@
+{
+	"name": "AzureTableStorage2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": {
+				"type": "SecureString",
+				"value": "**********"
+			},
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEJCQkUyQkRBLTgyMDQtNDE0MS1CNjFDLUU0RkI1OTlGM0QyM184NmM4NWQ5Yi04MzQ2LTQ0MjYtOWQ0ZS1lNTY2NTEzMjUwNDQiDQp9"
+		}
+	}
+}
