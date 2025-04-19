@@ -1,0 +1,9 @@
+{
+	"name": "eydatafactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5abad9f3-4447-4020-a5f6-51699267eed5",
+		"tenantId": "d77ec4e8-c88b-431b-8d7f-77755a4bbefc"
+	}
+}
